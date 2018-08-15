@@ -1,0 +1,108 @@
+hr {
+    border: none; /* Убираем границу для браузера Firefox */
+    background-color: #FFB155; /* Цвет линии для браузера Firefox и Opera */
+    height: 2px; /* Толщина линии */
+}
+
+.breadcrumb {
+    background-color: white;
+    padding-left: 0px;
+    padding-top: 0px;
+}
+
+.myColor {
+    color: #FFA925;
+}
+
+.msFont {
+    font-variant:small-caps;
+    font-family: "DejaVu Sans Light", sans-serif;
+}
+
+.mbFont {
+    font-weight: bold;
+    color: #32383e;
+}
+
+.bat {
+    background-color: #0c5460;
+}
+
+.bb {
+    /*background-color: #0069d9;*/
+    border-width:1px;
+    border-color: black;
+    border-style: solid;
+}
+
+.btn-dark {
+    border-radius: 0;
+}
+
+.contact-back {
+    background-color: #F6F6F6;
+}
+
+.form-control{
+    border-radius: 0;
+    border: none;
+}
+
+.footer {
+    background-color: #3B4043;
+    margin-top: 100px;
+}
+
+.text {
+    color: #FFA925;
+}
+
+.sText {
+    font-weight: 900;
+    color: #FFA925;
+    font-size: 22px;
+}
+
+.fab:before {
+    font-size: 25px;
+    color: #FFA925;
+}
+
+.btn-secondary {
+    background-color: white;
+    color: black;
+    font-weight: 300;
+    border-width: 0px;
+}
+
+.activ {
+    background-color: #FFA925;
+    border-radius: 10px;
+}
+
+.btn-chat {
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: #FFA925;
+    color:white;
+    position: fixed;
+    right: 0;
+    margin-top: 140px;
+    z-index: 10;
+}
+
+/*.navbar-light .navbar-brand:hover {
+    background-color: #0069d9;
+    color: white;
+    border-radius: 10px;
+} */
+
+.navbar-light .navbar-nav .nav-link.nav-hover:hover {
+    background-color: #0069d9;
+    color: white;
+    border-radius: 10px;
+}
+
+.mFont {
+    background-color: white;
+}
